@@ -1,0 +1,10 @@
+C:\Users\PRAKTIKAN\Downloads\modul2_1302223038\obj\Debug\modul2_1302223038.csproj.AssemblyReference.cache
+C:\Users\PRAKTIKAN\Downloads\modul2_1302223038\obj\Debug\modul2_1302223038.Form1.resources
+C:\Users\PRAKTIKAN\Downloads\modul2_1302223038\obj\Debug\modul2_1302223038.Properties.Resources.resources
+C:\Users\PRAKTIKAN\Downloads\modul2_1302223038\obj\Debug\modul2_1302223038.csproj.GenerateResource.cache
+C:\Users\PRAKTIKAN\Downloads\modul2_1302223038\obj\Debug\modul2_1302223038.csproj.CoreCompileInputs.cache
+C:\Users\PRAKTIKAN\Downloads\modul2_1302223038\bin\Debug\modul2_1302223038.exe.config
+C:\Users\PRAKTIKAN\Downloads\modul2_1302223038\bin\Debug\modul2_1302223038.exe
+C:\Users\PRAKTIKAN\Downloads\modul2_1302223038\bin\Debug\modul2_1302223038.pdb
+C:\Users\PRAKTIKAN\Downloads\modul2_1302223038\obj\Debug\modul2_1302223038.exe
+C:\Users\PRAKTIKAN\Downloads\modul2_1302223038\obj\Debug\modul2_1302223038.pdb
